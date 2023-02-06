@@ -2,7 +2,7 @@
 
 Submitted by: **Cesar Borroto**
 
-** Flixster** is a movie browsing app that... [TODO] 
+** Flixster** is a movie browsing app that shows different movies and thir description. 
 
 Time spent: **20** hours spent in total
 
